@@ -1,0 +1,22 @@
+@font-face {
+	font-family: 'Steps-Mono';
+	src: url('fonts/stepsmono.eot');
+	src: url('fonts/stepsmono.eot?#iefix') format('embedded-opentype'),
+url('fonts/stepsmono.svg#stepsmono') format('svg'),
+url('fonts/stepsmono.ttf') format('truetype'),
+url('fonts/stepsmono.woff') format('woff'),
+url('fonts/stepsmono.woff2') format('woff2');
+	font-weight: 400;
+	font-style: normal;
+}
+@font-face {
+	font-family: 'Steps-Mono';
+	src: url('fonts/stepsmonothin.eot');
+	src: url('fonts/stepsmonothin.eot?#iefix') format('embedded-opentype'),
+url('fonts/stepsmonothin.svg#stepsmonothin') format('svg'),
+url('fonts/stepsmonothin.ttf') format('truetype'),
+url('fonts/stepsmonothin.woff') format('woff'),
+url('fonts/stepsmonothin.woff2') format('woff2');
+	font-weight: 200;
+	font-style: normal;
+}
