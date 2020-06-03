@@ -490,6 +490,15 @@ justify-content: center;
 color: #70FFF2;
 }
 
+.popup-bg{
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  background: rgba(255, 113, 196, .35);
+}
+
 .popup-wrp{
 position: fixed;
 top: 25%;
